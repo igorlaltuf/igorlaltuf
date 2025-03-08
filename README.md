@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Igor 👋</h1>
-<h3 align="center">I’m a Data Engineer at Fiquem Sabendo with experience in **Python**, **DBT** and **Postgres**</h3>
+<h3 align="center">I’m a Data Engineer at Fiquem Sabendo with experience in Python, DBT and Postgres</h3>
 
 - 🔭 I’m currently working on **civic technology** projects, such as **[Agenda Transparente](https://agendas.fiquemsabendo.com.br/)**
   
