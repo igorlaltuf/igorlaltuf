@@ -12,16 +12,6 @@
 - ⚡ Fun fact: **I've practiced Krav Maga for 8+ years**
 
 
-<!--Analytics & Data-->
-<h2 align="center">Contribution Data</h2>
-<div align="center">
-<table>
-<tr>
-<td width="100%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=igorlaltuf&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=1288ff&include_all_commits=true&count_private=true">
-</table>
-</div>
-
 <!-- Contact -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
