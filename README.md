@@ -9,8 +9,6 @@
 
 - 📦 I’m the **maintainer of the packages** [dail](https://github.com/igorlaltuf/dail), [ispdata](https://github.com/igorlaltuf/ispdata), [bndesr](https://github.com/igorlaltuf/bndesr), and [BrazilCrime](https://github.com/GiovanniVargette/BrazilCrime), which together have 27k+ downloads
 
-- ⚡ Fun fact: **I've practiced Krav Maga for 8+ years**
-
 
 <!-- Contact -->
 <h3 align="center">Connect with me:</h3>
